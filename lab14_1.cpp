@@ -46,6 +46,7 @@ void stat(const double A[],int N, double B[]){
         d += 1/A[i];
         B[3] = N/d;
     }
+
     
    
 
